@@ -15,3 +15,10 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 1. **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
    Infomrace o mzdách máme v tabulce t_tereza_cetkovska_project_SQL_primary_final dostupné od roku 2000 pro všechny kvartály do roku 2021, kde jsou k dispozici pouze první a druhý kvartál. Pro meziroční srovnání tedy uvažuji roky 2000 až 2020. 
     
+2. **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
+3. 
+4. **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+5. 
+6. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+7. 
+8. **Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
