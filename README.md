@@ -13,7 +13,7 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 ## Výzkumné otázky
 
 1. **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
-   Infomrace o mzdách máme v tabulce t_tereza_cetkovska_project_SQL_primary_final dostupné od roku 2000 pro všechny kvartály do roku 2021, kde jsou k dispozici pouze první a druhý kvartál. Pro meziroční srovnání tedy uvažuji roky 2000 až 2020. 
+   Informace o mzdách máme v tabulce t_tereza_cetkovska_project_SQL_primary_final dostupné od roku 2000 po rok 2021. Pro rok 2020 jdou dostupná data pro všechny kvartály, rok 2021 má k dispozici pouze první a druhý kvartál. Pro meziroční srovnání tedy uvažuji roky 2000 až 2020. 
     
 2. **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
