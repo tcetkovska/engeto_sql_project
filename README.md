@@ -12,6 +12,6 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 
 ## Výzkumné otázky
 
-1. ** Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? **
+1. **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
    Infomrace o mzdách máme v tabulce t_tereza_cetkovska_project_SQL_primary_final dostupné od roku 2000 pro všechny kvartály do roku 2021, kde jsou k dispozici pouze první a druhý kvartál. Pro meziroční srovnání tedy uvažuji roky 2000 až 2020. 
     
