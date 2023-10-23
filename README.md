@@ -13,7 +13,7 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 ## Výzkumné otázky
 
 1. **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
-   Informace o mzdách mám v tabulce t_tereza_cetkovska_project_SQL_primary_final dostupné od roku 2000 po rok 2021. Pro rok 2020 jdou dostupná data pro všechny kvartály, rok 2021 má k dispozici pouze první a druhý kvartál. Pro meziroční srovnání tedy uvažuji roky 2000 až 2020. Porovnáním přepočtené průměrné hrubé mzdy na zaměstnance za rok 2000 a 2020 je na první pohled vidět, že mzdy v tomto období vzrostly ve všech odvětvích. Nelze však říci, že mzdy rostly každý rok. Pokud se podíváme na meziroční srovnání, ve všech odvětvích došlo alespoň jednou k meziročnímmu poklesu.
+   Informace o mzdách mám v tabulce t_tereza_cetkovska_project_SQL_primary_final dostupné od roku 2000 po rok 2021. Pro rok 2020 jdou dostupná data pro všechny kvartály, rok 2021 má k dispozici pouze první a druhý kvartál. Pro meziroční srovnání tedy uvažuji roky 2000 až 2020. Porovnáním přepočtené průměrné hrubé mzdy na zaměstnance za rok 2000 a 2020 je na první pohled vidět, že mzdy v tomto období vzrostly ve všech odvětvích. Nelze však říci, že mzdy rostly každý rok. Pokud se podíváme na meziroční srovnání, ve všech odvětvích došlo alespoň jednou k meziročnímu poklesu.
     
 2. **Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 
@@ -24,4 +24,4 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 4. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
 
-5. **Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?**
+5. **Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
