@@ -9,6 +9,7 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 - **t_tereza_cetkovska_project_SQL_primary_final** - pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky,
 - **t_tereza_cetkovska_project_SQL_secondary_final** - pro dodatečná data o dalších evropských státech obsahující HDP, GINI koeficient a populaci ve stejném období, jako primární přehled pro ČR.
 
+## Tvorba primární a sekundární tabulky
 
 ## Výzkumné otázky
 
