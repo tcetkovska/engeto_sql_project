@@ -11,6 +11,11 @@ K jednotlivým tabulkám existují číselníky pro upřesnění použitých hod
 
 ## Tvorba primární a sekundární tabulky
 
+### SQL primary table
+
+### SQL secondary table
+Dodatečná tabulka má obsaovat pouze informace o evropských státech, konkrétně HDP, GINI koeficient a populace za období, které zobrazujme v primárním přehledu. Data v primrním přehledu, tj. informace o mzdách a cenách, jsou společná pouze pro roky 2000 až 2021, z toho důvodu vybírám data do sekundární tabulky pouze v tomto rozsahu. Z tabulky *countries* vyberu pouze státy ležící v Evropě. Případné překlepy a dodatečné mezery jsem ověřila přes SELECT DISTINCT, kde vidím kontinent Evropa pouze jednou. K vybraným státům doplním požadované informace za jendotlivé roky z tabulky *economies*.
+
 ## Výzkumné otázky
 
 1. **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
