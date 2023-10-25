@@ -39,7 +39,7 @@ LEFT JOIN (
  	AND tc.value_type_code = 5958
 	AND tc.calculation_code = 200
    			GROUP BY tc.payroll_year, tc.industry_branch_code
-   		) tc2
+   		    ) tc2
    	ON tc2.payroll_year+1=tc.payroll_year
    	AND tc2.industry_branch_code=tc.industry_branch_code
  LEFT JOIN czechia_payroll_industry_branch cpib
