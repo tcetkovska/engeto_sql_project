@@ -27,3 +27,5 @@ FROM czechia_payroll cpa
 LEFT JOIN t_tereza_cetkovska_auxiliary ttca
 	ON ttca.year_price = cpa.payroll_year
 	AND ttca.quarter_price = cpa.payroll_quarter;
+
+	test
