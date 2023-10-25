@@ -49,3 +49,5 @@ LEFT JOIN (
  	AND tc.value_type_code = 5958
 	AND tc.calculation_code = 200
  GROUP BY tc.industry_branch_code, tc.payroll_year;  
+ 
+DROP TABLE t_tereza_cetkovska_auxiliary_3 
