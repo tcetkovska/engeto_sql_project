@@ -26,7 +26,7 @@ Dodatečná tabulka má obsahovat pouze informace o evropských státech, konkr�
    Informace o mzdách mám v primární tabulce dostupné od roku 2000 do roku 2021, nicméně informace o cenách mléka a chleba jsou k dispozici od roku 2006 do roku 2018. Z toho důvodu beru jako první srovnatelné období rok 2006 a jako poslední rok 2018. Průměrnou cenu mléka a chleba porovnávám v těchto letech s přepočtenou průměrnou hrubou mzdou. V roce 2006 je možné si za průměrnou mzdu koupit 1432 kg chleba a 1599 litrů mléka. V roce 2018 je to 1309 kg chleba a 1601 litrů mléka. Chleba si tedy v roce 2018 koupíme za průměrnou mzdu méně, mléka zhruba stejně. Vyplývá nám, že tempo zdražování chleba je rychlejší, než tempo růstu průměrné hrubé mzdy. Cena mléka rostla stejný tempem jako průměrná mzda. 
 
 3. **Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
-
+   Na základě meziročního srovnání průměrných cen jednotlivých kategorií potravin vidím nejpomalší nárůst v kategorii *Přírodní minerální voda uhličitá*, u které cena narostla pouze mezi roky 2011 a 2012 a to o 12%. V ostatních letech zůstává cena stejná.
 
 4. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
