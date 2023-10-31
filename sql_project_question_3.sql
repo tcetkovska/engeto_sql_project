@@ -25,5 +25,5 @@ LEFT JOIN t_tereza_cetkovska_auxiliary ttca2
 	ON ttca2.year_price + 1 = ttca.year_price 
 	AND ttca2.category_code = ttca.category_code 
 	WHERE ttca2.year_price IS NOT NULL 
-GROUP BY ttca.category_code, ttca.year_price  
+GROUP BY ttca.category_code, ttca.year_price; 
 
