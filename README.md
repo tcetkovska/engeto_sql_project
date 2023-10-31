@@ -29,6 +29,6 @@ Dodatečná tabulka má obsahovat pouze informace o evropských státech, konkr�
    Na základě meziročního srovnání průměrných cen jednotlivých kategorií potravin vidím nejpomalejší nárůst v kategorii *Přírodní minerální voda uhličitá*, u které cena narostla pouze mezi roky 2011 a 2012 a to o 12%. V ostatních letech zůstává cena stejná.
 
 4. **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
-
+   Porovnáním průměrných cen uvedených potravin a přepočtených hrubých mezd na zaměstnance v jednotlivých letech vidím, že procentuální nárůst cen byl vyšší než procentuální nárůst mezd mezi lety 2006/2007, 2007/2008, 2011/2012 a 2015/2016. Mezi lety 2013/2014 a 2017/2018 průměrná cena nevzrostla. Výrazný nárůst cen, tj. více než o 10%, je mezi lety 2006/2007 a to o 14% a 2007/2008 o 38%. Porovnávám roky 2006 až 2018, protože pouze v tomto období mám dostupné informace o cenách potravin. 
 
 5. **Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
