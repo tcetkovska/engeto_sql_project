@@ -19,7 +19,7 @@ SELECT
 	ttca.average_price, 
 	ttca2.year_price AS previous_year,
 	ttca2.average_price AS previous_year_price,
-	round(ttca.average_price/ttca2.average_price-1,2) AS year_on_year_percentage_change
+	round(ttca.average_price/ttca2.average_price-1,2)*100 AS year_on_year_percentage_change
 FROM t_tereza_cetkovska_auxiliary ttca 
 LEFT JOIN t_tereza_cetkovska_auxiliary ttca2
 	ON ttca2.year_price + 1 = ttca.year_price 
