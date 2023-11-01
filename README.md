@@ -1,7 +1,7 @@
 # SQL Projekt pro kurz Datová akademie od společnosti Engeto
-Pro prokázání znalosti SQL je úkolem účastníků zpracovat podklady pro zodpovězení několika výzkumných otázek z oblasti dostupnosti základních potravin široké veřejnosti v České republice. Při zpracování projektu pracuji se tabulkami:
-- **czechia_payroll** - informace o mzdách v různých odvětvích za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR,
-- **czechia_price** - informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR,
+Pro prokázání znalosti SQL je úkolem účastníků zpracovat podklady pro zodpovězení několika výzkumných otázek z oblasti dostupnosti základních potravin široké veřejnosti v České republice. Při zpracování projektu pracuji s tabulkami:
+- **czechia_payroll** - informace o mzdách v různých odvětvích za několikaleté období, datová sada pochází z Portálu otevřených dat ČR,
+- **czechia_price** - informace o cenách vybraných potravin za několikaleté období, datová sada pochází z Portálu otevřených dat ČR,
 - **countries** - všemožné informace o zemích na světě, například hlavní město, měna, národní jídlo nebo průměrná výška populace,
 - **economies** - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
