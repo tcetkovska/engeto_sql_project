@@ -16,8 +16,8 @@ SELECT
 	ttca2.year_price AS previous_year,
 	ttca2.average_price AS previous_year_price,
 	ttca2.average_wage AS previous_year_average_wage,
-	round(ttca.average_price/ttca2.average_price-1,2) AS yoy_percentage_change_price,
-	round(ttca.average_wage/ttca2.average_wage -1,2) AS yoy_percentage_change_wage,
+	round(ttca.average_price/ttca2.average_price-1,2)*100 AS yoy_percentage_change_price,
+	round(ttca.average_wage/ttca2.average_wage -1,2)*100 AS yoy_percentage_change_wage,
 	CASE
 			WHEN ttca.average_price/ttca2.average_price-1 > ttca.average_wage/ttca2.average_wage -1 THEN 'price'
 			ELSE 'wage'
