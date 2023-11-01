@@ -1,7 +1,6 @@
 SELECT 
 	ttc.payroll_year, 
 	round(avg(ttc.value_payroll),0) AS average_wage,
-	ttc.category_code,
 	cpc.name, 
 	round(ttc.average_value_price,0) AS average_price,
 	round(avg(ttc.value_payroll)/ttc.average_value_price,0) AS how_many_litres_kilos,
