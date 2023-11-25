@@ -17,9 +17,9 @@ GROUP BY ttc.year_price;
 SELECT 
 	ttca.`year`,
 	ttca2.`year` AS previous_year,
-	(round(ttca.average_price/ttca2.average_price,2)-1)*100 AS yoy_perc_change_price,
-	(round(ttca.average_wage/ttca2.average_wage,2)-1)*100 AS yoy_perc_wage,
-	(round(ttca.GDP/ttca2.GDP,2)-1)*100 AS yoy_perc_change_GDP
+	(round(ttca.average_price/ttca2.average_price,2) - 1) * 100 AS yoy_perc_change_price,
+	(round(ttca.average_wage/ttca2.average_wage,2) - 1) * 100 AS yoy_perc_wage,
+	(round(ttca.GDP/ttca2.GDP,2) - 1) * 100 AS yoy_perc_change_GDP
 FROM t_tereza_cetkovska_auxiliary ttca 
 LEFT JOIN t_tereza_cetkovska_auxiliary ttca2 
 	ON ttca2.`year` + 1 = ttca.`year` 
